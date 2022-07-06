@@ -6,6 +6,7 @@
 2. Añadiendo comentarios de documentación al código
 3. generación de un sitio web con JSDOC
 
+
 ## Qué es JSDOC
 **JSDoc 3** es una API de generación de documentación de código JavaScript. similar a Javadoc o phpDocumentator.
 en ella añades los comentarios de documentación del código fuente justo al lado del propio código. finalmente
@@ -113,67 +114,67 @@ Este comando creará un directorio llamado out/ en el directorio de trabajo actu
         </tr>
         <tr>
             <td> @callback </td>
-            <td> Document a callback function. </td>
+            <td> Documenta una función Callback. </td>
         </tr>
         <tr>
             <td> @class (synonyms: @constructor) </td>
-            <td> This function is intended to be called with the "new" keyword. </td>
+            <td> documenta una clase. </td>
         </tr>
         <tr>
             <td> @classdesc </td>
-            <td> Use the following text to describe the entire class. </td>
+            <td> documenta la descripción de una clase. </td>
         </tr>
         <tr>
             <td> @constant (synonyms: @const) </td>
-            <td> Document an object as a constant. </td>
+            <td> Documenta un objeto como constante. </td>
         </tr>
         <tr>
             <td> @constructs </td>
-            <td> This function member will be the constructor for the previous class. </td>
+            <td> Esta función miembro será el constructor de la clase previa. </td>
         </tr>
         <tr>
             <td> @copyright </td>
-            <td> Document some copyright information. </td>
+            <td> Documenta información de copyright. </td>
         </tr>
         <tr>
             <td> @default (synonyms: @defaultvalue) </td>
-            <td> Document the default value. </td>
+            <td> Documenta el valor por defecto. </td>
         </tr>
         <tr>
             <td> @deprecated </td>
-            <td> Document that this is no longer the preferred way. </td>
+            <td> Documenta algo obsoleto </td>
         </tr>
         <tr>
             <td> @description (synonyms: @desc) </td>
-            <td> Describe a symbol. </td>
+            <td> Describe un simbolo. </td>
         </tr>
         <tr>
             <td> @enum </td>
-            <td> Document a collection of related properties. </td>
+            <td> Documenta una colección de propiedades relacionadas. </td>
         </tr>
         <tr>
             <td> @event </td>
-            <td> Document an event. </td>
+            <td> Documenta un evento. </td>
         </tr>
         <tr>
             <td> @example </td>
-            <td> Provide an example of how to use a documented item. </td>
+            <td> provee un ejemplo de cómo utilizar el item documentado </td>
         </tr>
         <tr>
             <td> @exports </td>
-            <td> Identify the member that is exported by a JavaScript module. </td>
+            <td> identifica un miembro que es exportado desde un módulo javascript (O typescript). </td>
         </tr>
         <tr>
             <td> @file (synonyms: @fileoverview, @overview) </td>
-            <td> Describe a file. </td>
+            <td> Describe un archivo. </td>
         </tr>
         <tr>
             <td> @fires </td>
-            <td> This object emits an event. </td>
+            <td> Este objeto emite un evento. </td>
         </tr>
         <tr>
             <td> @function (synonyms: @func) </td>
-            <td> Document a function. </td>
+            <td> Documenta una función. </td>
         </tr>
         <tr>
             <td> @global </td>
