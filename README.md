@@ -338,9 +338,5 @@ Copyright © 2011-2017 the contributors to the JSDoc 3 documentation project.
 JSDoc is freely distributable under the terms of the MIT license.
 
 traducido por:
-[Enrique Miramontes](https://github.com/Enalmiramontesti)
-[Darien Marquezz](https://github.com/Airdel)
-
-@airdel
-
-@enalmiramontes
+[@Enalmiramontesti](https://github.com/Enalmiramontesti)
+[@Airdel](https://github.com/Airdel)
