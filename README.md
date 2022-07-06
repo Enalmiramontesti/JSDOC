@@ -6,16 +6,6 @@
 2. Añadiendo comentarios de documentación al código
 3. generación de un sitio web con JSDOC
 
-<style>
-    p{
-        font-family:Segoe UI;
-        font-size: 1.1rem;
-        line-height: 1.5;
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-</style>
-
 ## Qué es JSDOC
 **JSDoc 3** es una API de generación de documentación de código JavaScript. similar a Javadoc o phpDocumentator.
 en ella añades los comentarios de documentación del código fuente justo al lado del propio código. finalmente
